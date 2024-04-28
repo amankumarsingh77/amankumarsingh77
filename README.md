@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning NextJs<br>🎯 Goals: 4 Scalable Projects by the end of April (2 Done) <br>🎲 Fun fact: Centering the div is the hardest ;)</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning NextJs<br>🎯 Goals: 4 Scalable Projects by the end of April (3 Done) <br>🎲 Fun fact: Centering the div is the hardest ;)</p>
 
 ###
 
